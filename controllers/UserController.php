@@ -75,6 +75,8 @@ class UserController extends Controller
 
             $referrer = $_POST['referrer'];
 
+            $model->password = Yii::$app->getSecurity()->generatePasswordHash($model->password);
+
             if($model->save()) {
                 Yii::$app->session->setFlash('success','Data berhasil disimpan.');
                 return $this->redirect($referrer);

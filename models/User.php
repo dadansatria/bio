@@ -81,7 +81,7 @@ class User extends \yii\db\ActiveRecord implements \yii\web\IdentityInterface
     
     public function validateAuthKey($authKey)
     {
-        return $this->auth_key === $authKey;
+        return null;
     }
 
     public static function findByUsername($username)

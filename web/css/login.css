@@ -1,0 +1,3172 @@
+.nav-grad {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cc0000+0,cc0000+100;Red+Flat */
+  background: #cc0000;
+  /* Old browsers */
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2NjMDAwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjYzAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -moz-linear-gradient(top, #cc0000 0%, #cc0000 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cc0000), color-stop(100%, #cc0000));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #cc0000 0%, #cc0000 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #cc0000 0%, #cc0000 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #cc0000 0%, #cc0000 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #cc0000 0%, #cc0000 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc0000', endColorstr='#cc0000', GradientType=0);
+  /* IE6-8 */
+}
+.grad1 {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f6f8f9+0,e5ebee+50,d7dee3+51,f5f7f9+100;White+Gloss */
+  background: #f6f8f9;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f8f9', endColorstr='#f5f7f9', GradientType=0);
+  /* IE6-9 */
+}
+.grad2 {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#356aa0+0,356aa0+100;Blue+Flat */
+  background: #356aa0;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #356aa0 0%, #356aa0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#356aa0', endColorstr='#356aa0', GradientType=0);
+  /* IE6-9 */
+}
+.grad3 {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7d7e7d+0,565656+100 */
+  background: #7d7e7d;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #7d7e7d 0%, #565656 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #7d7e7d 0%, #565656 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #7d7e7d 0%, #565656 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7d7e7d', endColorstr='#565656', GradientType=0);
+  /* IE6-9 */
+}
+html {
+  background: url(../images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.login-logo,
+.register-logo {
+  font-size: 40px;
+  text-align: left !important;
+  margin-top: 15px;
+  margin-left: 50px;
+  font-weight: 600;
+  color: #367fa9;
+  text-align: left;
+}
+.login-logo img,
+.register-logo img {
+  float: left;
+  margin-right: 20px;
+  margin-top: -5px;
+  height: 110px;
+}
+.login-logo p,
+.register-logo p {
+  margin: 0;
+}
+.login-logo .txt-l,
+.register-logo .txt-l {
+  font-size: 27.5px;
+  color: #fff;
+}
+.login-pages,
+.register-page {
+  background: #333 none repeat scroll 0 0;
+  border-top: 5px solid #F5C316;
+  border-bottom: 5px solid #F5C316;
+  height: 140px;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 39%;
+  opacity: 0.90;
+}
+.login-box,
+.register-box {
+  width: 360px;
+  position: absolute;
+  right: 50px;
+  top: -145px;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 3px solid #F5C316;
+  box-shadow: 2px 4px 8px #000;
+}
+.login-box-body,
+.register-box-body {
+  background: #fff;
+  padding: 20px;
+  color: #444;
+  border-top: 0;
+  color: #666;
+}
+.login-box-body .form-control-feedback,
+.register-box-body .form-control-feedback {
+  color: #777;
+}
+.login-box-msg,
+.register-box-msg {
+  margin: 0;
+  text-align: center;
+  padding: 0 20px 20px 20px;
+}
+.social-auth-links {
+  margin: 10px 0;
+}
+@media (max-width: 1025px) {
+  .login-logo {
+    font-size: 34px;
+    color: yellow;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px 0 #333333, -1px -1px 0 #333333, 1px -1px 0 #333333, -1px 1px 0 #333333, 1px 1px 0 #333333;
+    opacity: 100;
+  }
+  .login-logo img {
+    margin-top: 5px;
+  }
+  .login-logo .txt-l {
+    font-size: 24.5px;
+  }
+}
+@media (max-width: 990px) {
+  .login-logo {
+    position: absolute;
+    top: -167px;
+    width: 100%;
+  }
+}
+/*
+	jQuery.mmenu CSS
+*/
+/*
+	jQuery.mmenu oncanvas CSS
+*/
+#mnn {
+  background: transparent url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADhJREFUeNpi/P//PwOtARMDHQBdLGFBYtMq3BiHT3DRPU4YR4NrNAmPJuHRJDyahEeT8Ii3BCDAAF0WBj5Er5idAAAAAElFTkSuQmCC") no-repeat scroll center center;
+  display: block;
+  height: 28px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+  display: none;
+}
+.mm-hidden {
+  display: none !important;
+}
+.mm-wrapper {
+  overflow-x: hidden;
+  position: relative;
+}
+.mm-menu,
+.mm-menu > .mm-panel {
+  margin: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+}
+.mm-menu {
+  box-sizing: border-box;
+  background: inherit;
+  display: block;
+  overflow: hidden;
+  padding: 0;
+}
+.mm-panel {
+  -webkit-transition: -webkit-transform 0.4s ease;
+  -moz-transition: -moz-transform 0.4s ease;
+  -ms-transition: -ms-transform 0.4s ease;
+  -o-transition: -o-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  -webkit-transform: translate3d(100%, 0, 0);
+  -moz-transform: translate3d(100%, 0, 0);
+  -ms-transform: translate3d(100%, 0, 0);
+  -o-transform: translate3d(100%, 0, 0);
+  transform: translate3d(100%, 0, 0);
+}
+.mm-panel.mm-opened {
+  -webkit-transform: translate3d(0%, 0, 0);
+  -moz-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+.mm-panel.mm-subopened {
+  -webkit-transform: translate3d(-30%, 0, 0);
+  -moz-transform: translate3d(-30%, 0, 0);
+  -ms-transform: translate3d(-30%, 0, 0);
+  -o-transform: translate3d(-30%, 0, 0);
+  transform: translate3d(-30%, 0, 0);
+}
+.mm-panel.mm-highest {
+  z-index: 1;
+}
+.mm-menu > .mm-panel {
+  background: inherit;
+  border-color: inherit;
+  -webkit-overflow-scrolling: touch;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-sizing: border-box;
+  padding: 0 20px;
+}
+.mm-menu > .mm-panel.mm-hasnavbar {
+  padding-top: 40px;
+}
+.mm-menu > .mm-panel:before,
+.mm-menu > .mm-panel:after {
+  content: '';
+  display: block;
+  height: 20px;
+}
+.mm-vertical .mm-panel {
+  -webkit-transform: none !important;
+  -moz-transform: none !important;
+  -ms-transform: none !important;
+  -o-transform: none !important;
+  transform: none !important;
+}
+.mm-vertical .mm-listview .mm-panel,
+.mm-listview .mm-vertical .mm-panel {
+  display: none;
+  padding: 10px 0 10px 10px;
+}
+.mm-vertical .mm-listview .mm-panel .mm-listview > li:last-child:after,
+.mm-listview .mm-vertical .mm-panel .mm-listview > li:last-child:after {
+  border-color: transparent;
+}
+.mm-vertical li.mm-opened > .mm-panel,
+li.mm-vertical.mm-opened > .mm-panel {
+  display: block;
+}
+.mm-vertical .mm-listview > li > .mm-next,
+.mm-listview > li.mm-vertical > .mm-next {
+  height: 40px;
+  bottom: auto;
+}
+.mm-vertical .mm-listview > li > .mm-next:after,
+.mm-listview > li.mm-vertical > .mm-next:after {
+  top: 16px;
+  bottom: auto;
+}
+.mm-vertical .mm-listview > li.mm-opened > .mm-next:after,
+.mm-listview > li.mm-vertical.mm-opened > .mm-next:after {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.mm-navbar {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#356aa0+0,356aa0+100;Blue+Flat */
+  background: #356aa0;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #356aa0 0%, #356aa0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#356aa0', endColorstr='#356aa0', GradientType=0);
+  /* IE6-9 */
+  border-bottom: 1px solid;
+  border-color: inherit;
+  text-align: center;
+  line-height: 20px;
+  height: 40px;
+  padding: 0 40px;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.mm-navbar > * {
+  display: block;
+  padding: 10px 0;
+}
+.mm-navbar a,
+.mm-navbar a:hover {
+  text-decoration: none;
+}
+.mm-navbar .mm-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.mm-navbar .mm-btn {
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 0;
+  z-index: 1;
+}
+.mm-navbar .mm-btn:first-child {
+  padding-left: 20px;
+  left: 0;
+}
+.mm-navbar .mm-btn:last-child {
+  text-align: right;
+  padding-right: 20px;
+  right: 0;
+}
+.mm-panel .mm-navbar {
+  display: none;
+}
+.mm-panel.mm-hasnavbar .mm-navbar {
+  display: block;
+}
+.mm-listview,
+.mm-listview > li {
+  list-style: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+.mm-listview {
+  font: inherit;
+  font-size: 14px;
+  line-height: 20px;
+}
+.mm-listview a,
+.mm-listview a:hover {
+  text-decoration: none;
+}
+.mm-listview > li {
+  position: relative;
+}
+.mm-listview > li,
+.mm-listview > li:after,
+.mm-listview > li .mm-next,
+.mm-listview > li .mm-next:before {
+  border-color: inherit;
+}
+.mm-listview > li > a,
+.mm-listview > li > span {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  color: inherit;
+  display: block;
+  padding: 10px 10px 10px 20px;
+  margin: 0;
+}
+.mm-listview > li > a.mm-arrow,
+.mm-listview > li > span.mm-arrow {
+  padding-right: 50px;
+}
+.mm-listview > li:not(.mm-divider):after {
+  content: '';
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.mm-listview > li:not(.mm-divider):after {
+  left: 20px;
+}
+.mm-listview .mm-next {
+  background: rgba(3, 2, 1, 0);
+  width: 50px;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 2;
+}
+.mm-listview .mm-next:before {
+  content: '';
+  border-left-width: 1px;
+  border-left-style: solid;
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.mm-listview .mm-next + a,
+.mm-listview .mm-next + span {
+  margin-right: 50px;
+}
+.mm-listview .mm-next.mm-fullsubopen {
+  width: 100%;
+}
+.mm-listview .mm-next.mm-fullsubopen:before {
+  border-left: none;
+}
+.mm-listview .mm-next.mm-fullsubopen + a,
+.mm-listview .mm-next.mm-fullsubopen + span {
+  padding-right: 50px;
+  margin-right: 0;
+}
+.mm-menu > .mm-panel > .mm-listview {
+  margin: 20px -20px;
+}
+.mm-menu > .mm-panel > .mm-listview:first-child,
+.mm-menu > .mm-panel > .mm-navbar + .mm-listview {
+  margin-top: -20px;
+}
+.mm-listview .mm-inset {
+  list-style: inside disc;
+  padding: 0 10px 15px 40px;
+  margin: 0;
+}
+.mm-listview .mm-inset > li {
+  padding: 5px 0;
+}
+.mm-listview .mm-divider {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 10px;
+  text-transform: uppercase;
+  text-indent: 20px;
+  line-height: 25px;
+}
+.mm-listview .mm-spacer {
+  padding-top: 40px;
+}
+.mm-listview .mm-spacer > .mm-next {
+  top: 40px;
+}
+.mm-listview .mm-spacer.mm-divider {
+  padding-top: 25px;
+}
+.mm-prev:before,
+.mm-next:after,
+.mm-arrow:after {
+  content: '';
+  border: 2px solid transparent;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.mm-prev:before {
+  border-right: none;
+  border-bottom: none;
+  left: 20px;
+}
+.mm-next:after,
+.mm-arrow:after {
+  border-top: none;
+  border-left: none;
+  right: 20px;
+}
+.mm-menu {
+  background: #f3f3f3;
+  border-color: rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.7);
+}
+.mm-menu .mm-navbar > *,
+.mm-menu .mm-navbar a {
+  color: #fff;
+}
+.mm-menu .mm-navbar .mm-btn:before,
+.mm-menu .mm-navbar .mm-btn:after {
+  border-color: #fff;
+}
+.mm-menu .mm-listview {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.mm-menu .mm-listview > li .mm-next:after,
+.mm-menu .mm-listview > li .mm-arrow:after {
+  border-color: rgba(0, 0, 0, 0.3);
+}
+.mm-menu .mm-listview > li.mm-selected > a:not(.mm-next),
+.mm-menu .mm-listview > li.mm-selected > span {
+  background: rgba(255, 255, 255, 0.5);
+}
+.mm-menu.mm-vertical .mm-listview > li.mm-opened > a.mm-next,
+.mm-menu.mm-vertical .mm-listview > li.mm-opened > .mm-panel,
+.mm-menu .mm-listview > li.mm-opened.mm-vertical > a.mm-next,
+.mm-menu .mm-listview > li.mm-opened.mm-vertical > .mm-panel {
+  background: rgba(0, 0, 0, 0.05);
+}
+.mm-menu .mm-divider {
+  background: rgba(0, 0, 0, 0.05);
+}
+/*
+	jQuery.mmenu offcanvas addon CSS
+*/
+.mm-page {
+  box-sizing: border-box;
+  position: relative;
+}
+.mm-slideout {
+  -webkit-transition: -webkit-transform 0.4s ease;
+  -ms-transition: -ms-transform 0.4s ease;
+  transition: transform 0.4s ease;
+}
+html.mm-opened {
+  overflow: hidden;
+  position: relative;
+}
+html.mm-opened body {
+  overflow: hidden;
+}
+html.mm-background .mm-page {
+  background: inherit;
+}
+#mm-blocker {
+  background: rgba(3, 2, 1, 0);
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+}
+html.mm-opened #mm-blocker,
+html.mm-blocking #mm-blocker {
+  display: block;
+}
+.mm-menu.mm-offcanvas {
+  display: none;
+  position: fixed;
+}
+.mm-menu.mm-current {
+  display: block;
+}
+.mm-menu {
+  width: 80%;
+  min-width: 140px;
+  max-width: 440px;
+}
+html.mm-opening .mm-slideout {
+  -webkit-transform: translate(80%, 0);
+  -moz-transform: translate(80%, 0);
+  -ms-transform: translate(80%, 0);
+  -o-transform: translate(80%, 0);
+  transform: translate(80%, 0);
+}
+@media all and (max-width: 175px) {
+  html.mm-opening .mm-slideout {
+    -webkit-transform: translate(140px, 0);
+    -moz-transform: translate(140px, 0);
+    -ms-transform: translate(140px, 0);
+    -o-transform: translate(140px, 0);
+    transform: translate(140px, 0);
+  }
+}
+@media all and (min-width: 550px) {
+  html.mm-opening .mm-slideout {
+    -webkit-transform: translate(440px, 0);
+    -moz-transform: translate(440px, 0);
+    -ms-transform: translate(440px, 0);
+    -o-transform: translate(440px, 0);
+    transform: translate(440px, 0);
+  }
+}
+/*
+	jQuery.mmenu autoHeight addon CSS
+*/
+.mm-menu.mm-top.mm-autoheight,
+.mm-menu.mm-bottom.mm-autoheight {
+  max-height: 80%;
+}
+.mm-menu.mm-top.mm-autoheight.mm-fullscreen,
+.mm-menu.mm-bottom.mm-autoheight.mm-fullscreen {
+  max-height: 100%;
+}
+.mm-menu.mm-measureheight > .mm-panel {
+  bottom: auto !important;
+  height: auto !important;
+}
+/*
+	jQuery.mmenu counters addon CSS
+*/
+em.mm-counter {
+  font: inherit;
+  font-size: 14px;
+  font-style: normal;
+  text-indent: 0;
+  line-height: 20px;
+  display: block;
+  margin-top: -10px;
+  position: absolute;
+  right: 45px;
+  top: 50%;
+}
+em.mm-counter + a.mm-next {
+  width: 90px;
+}
+em.mm-counter + a.mm-next + a,
+em.mm-counter + a.mm-next + span {
+  margin-right: 90px;
+}
+em.mm-counter + a.mm-fullsubopen {
+  padding-left: 0;
+}
+.mm-vertical > .mm-counter {
+  top: 12px;
+  margin-top: 0;
+}
+.mm-vertical.mm-spacer > .mm-counter {
+  margin-top: 40px;
+}
+.mm-nosubresults > .mm-counter {
+  display: none;
+}
+.mm-menu em.mm-counter {
+  color: rgba(0, 0, 0, 0.3);
+}
+/*
+	jQuery.mmenu dividers addon CSS
+*/
+.mm-divider > span {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 0;
+  line-height: 25px;
+}
+.mm-divider.mm-opened a.mm-next:after {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.mm-collapsed:not(.mm-uncollapsed) {
+  display: none;
+}
+.mm-fixeddivider {
+  background: inherit;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.mm-fixeddivider:after {
+  content: none !important;
+  display: none !important;
+}
+.mm-hasdividers .mm-fixeddivider {
+  display: block;
+}
+.mm-menu .mm-fixeddivider span {
+  background: rgba(0, 0, 0, 0.05);
+}
+/*
+	jQuery.mmenu dragOpen addon CSS
+*/
+html.mm-opened.mm-dragging .mm-menu,
+html.mm-opened.mm-dragging .mm-page,
+html.mm-opened.mm-dragging .mm-fixed-top,
+html.mm-opened.mm-dragging .mm-fixed-bottom,
+html.mm-opened.mm-dragging #mm-blocker {
+  -webkit-transition-duration: 0s;
+  -moz-transition-duration: 0s;
+  -ms-transition-duration: 0s;
+  -o-transition-duration: 0s;
+  transition-duration: 0s;
+}
+/*
+	jQuery.mmenu iconpanels addon CSS
+*/
+.mm-iconpanel .mm-panel {
+  -webkit-transition-property: -webkit-transform, left, right;
+  -moz-transition-property: -moz-transform, left, right;
+  -ms-transition-property: -ms-transform, left, right;
+  -o-transition-property: -o-transform, left, right;
+  transition-property: transform, left, right;
+}
+.mm-iconpanel .mm-panel.mm-opened {
+  border-left: 1px solid;
+  border-color: inherit;
+}
+.mm-iconpanel .mm-panel.mm-subopened {
+  overflow-y: hidden;
+  left: -40px;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.mm-iconpanel .mm-panel.mm-iconpanel-0 {
+  left: 0px;
+}
+.mm-iconpanel .mm-panel.mm-iconpanel-1 {
+  left: 40px;
+}
+.mm-iconpanel .mm-panel.mm-iconpanel-2 {
+  left: 80px;
+}
+.mm-iconpanel .mm-panel.mm-iconpanel-3 {
+  left: 120px;
+}
+.mm-iconpanel .mm-panel.mm-iconpanel-4 {
+  left: 160px;
+}
+.mm-iconpanel .mm-panel.mm-iconpanel-5 {
+  left: 200px;
+}
+.mm-iconpanel .mm-panel.mm-iconpanel-6 {
+  left: 240px;
+}
+.mm-subblocker {
+  background: inherit;
+  opacity: 0;
+  display: block;
+  -webkit-transition: opacity 0.4s ease;
+  -moz-transition: opacity 0.4s ease;
+  -ms-transition: opacity 0.4s ease;
+  -o-transition: opacity 0.4s ease;
+  transition: opacity 0.4s ease;
+}
+.mm-subopened .mm-subblocker {
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: -100000px;
+  left: 0;
+  z-index: 3;
+}
+/*
+	jQuery.mmenu navbars addon CSS
+*/
+.mm-menu > .mm-navbar {
+  background: inherit;
+  padding: 0;
+  z-index: 3;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.mm-navbar-bottom {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-bottom: none;
+  top: auto;
+  bottom: 0;
+}
+.mm-navbar-top ~ .mm-navbar-top {
+  border-bottom: none;
+}
+.mm-navbar-bottom ~ .mm-navbar-bottom {
+  border-top: none;
+}
+.mm-navbar.mm-hasbtns {
+  padding: 0 40px;
+}
+.mm-close:after {
+  content: 'x';
+}
+.mm-navbar[class*="mm-navbar-content-"] > * {
+  box-sizing: border-box;
+  display: block;
+  float: left;
+}
+.mm-navbar > .mm-breadcrumbs {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: auto;
+  text-align: left;
+  padding: 0 0 0 17px;
+}
+.mm-navbar > .mm-breadcrumbs > * {
+  display: inline-block;
+  padding: 10px 3px;
+}
+.mm-navbar > .mm-breadcrumbs > a {
+  text-decoration: underline;
+}
+.mm-navbar.mm-hasbtns .mm-breadcrumbs {
+  margin-left: -40px;
+}
+.mm-navbar.mm-hasbtns .mm-btn:not(.mm-hidden) + .mm-breadcrumbs {
+  margin-left: 0;
+  padding-left: 0;
+}
+.mm-navbar-top-1 {
+  top: 0px;
+}
+.mm-hasnavbar-top-1 .mm-panel {
+  top: 40px;
+}
+.mm-hasnavbar-top-1 .mm-indexer {
+  top: 50px;
+}
+.mm-hasnavbar-top-1 .mm-fixeddivider {
+  top: 40px;
+}
+.mm-navbar-top-2 {
+  top: 40px;
+}
+.mm-hasnavbar-top-2 .mm-panel {
+  top: 80px;
+}
+.mm-hasnavbar-top-2 .mm-indexer {
+  top: 90px;
+}
+.mm-hasnavbar-top-2 .mm-fixeddivider {
+  top: 80px;
+}
+.mm-navbar-top-3 {
+  top: 80px;
+}
+.mm-hasnavbar-top-3 .mm-panel {
+  top: 120px;
+}
+.mm-hasnavbar-top-3 .mm-indexer {
+  top: 130px;
+}
+.mm-hasnavbar-top-3 .mm-fixeddivider {
+  top: 120px;
+}
+.mm-navbar-top-4 {
+  top: 120px;
+}
+.mm-hasnavbar-top-4 .mm-panel {
+  top: 160px;
+}
+.mm-hasnavbar-top-4 .mm-indexer {
+  top: 170px;
+}
+.mm-hasnavbar-top-4 .mm-fixeddivider {
+  top: 160px;
+}
+.mm-navbar-bottom-1 {
+  bottom: 0px;
+}
+.mm-hasnavbar-bottom-1 .mm-panel {
+  bottom: 40px;
+}
+.mm-hasnavbar-bottom-1 .mm-indexer {
+  bottom: 50px;
+}
+.mm-navbar-bottom-2 {
+  bottom: 40px;
+}
+.mm-hasnavbar-bottom-2 .mm-panel {
+  bottom: 80px;
+}
+.mm-hasnavbar-bottom-2 .mm-indexer {
+  bottom: 90px;
+}
+.mm-navbar-bottom-3 {
+  bottom: 80px;
+}
+.mm-hasnavbar-bottom-3 .mm-panel {
+  bottom: 120px;
+}
+.mm-hasnavbar-bottom-3 .mm-indexer {
+  bottom: 130px;
+}
+.mm-navbar-bottom-4 {
+  bottom: 120px;
+}
+.mm-hasnavbar-bottom-4 .mm-panel {
+  bottom: 160px;
+}
+.mm-hasnavbar-bottom-4 .mm-indexer {
+  bottom: 170px;
+}
+.mm-navbar-size-2 {
+  height: 80px;
+}
+.mm-navbar-size-3 {
+  height: 120px;
+}
+.mm-navbar-size-4 {
+  height: 160px;
+}
+.mm-navbar-content-2 > * {
+  width: 50%;
+}
+.mm-navbar-content-3 > * {
+  width: 33.33%;
+}
+.mm-navbar-content-4 > * {
+  width: 25%;
+}
+.mm-navbar-content-5 > * {
+  width: 20%;
+}
+.mm-navbar-content-6 > * {
+  width: 16.67%;
+}
+/*
+	jQuery.mmenu searchfield addon CSS
+*/
+.mm-search,
+.mm-search input {
+  box-sizing: border-box;
+}
+.mm-search {
+  height: 40px;
+  padding: 7px 10px 0 10px;
+}
+.mm-search input {
+  border: none;
+  border-radius: 26px;
+  font: inherit;
+  font-size: 14px;
+  line-height: 26px;
+  outline: none;
+  display: block;
+  width: 100%;
+  height: 26px;
+  margin: 0;
+  padding: 0 10px;
+}
+.mm-search input::-ms-clear {
+  display: none;
+}
+.mm-panel > .mm-search {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mm-panel.mm-hassearch {
+  padding-top: 40px;
+}
+.mm-panel.mm-hassearch.mm-hasnavbar {
+  padding-top: 80px;
+}
+.mm-panel.mm-hassearch.mm-hasnavbar .mm-search {
+  top: 40px;
+}
+.mm-noresultsmsg {
+  text-align: center;
+  font-size: 21px;
+  display: none;
+  padding: 40px 0;
+}
+.mm-noresults .mm-noresultsmsg {
+  display: block;
+}
+.mm-noresults .mm-indexer {
+  display: none !important;
+}
+li.mm-nosubresults > a.mm-next {
+  display: none;
+}
+li.mm-nosubresults > a.mm-next + a,
+li.mm-nosubresults > a.mm-next + span {
+  padding-right: 10px;
+}
+.mm-menu .mm-search input {
+  background: rgba(0, 0, 0, 0.05);
+  color: rgba(0, 0, 0, 0.7);
+}
+.mm-menu .mm-noresultsmsg {
+  color: rgba(0, 0, 0, 0.3);
+}
+/*
+	jQuery.mmenu sectionIndexer addon CSS
+*/
+.mm-indexer {
+  background: inherit;
+  text-align: center;
+  font-size: 12px;
+  box-sizing: border-box;
+  width: 20px;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  right: -100px;
+  z-index: 3;
+  -webkit-transition: right 0.4s ease;
+  -moz-transition: right 0.4s ease;
+  -ms-transition: right 0.4s ease;
+  -o-transition: right 0.4s ease;
+  transition: right 0.4s ease;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.mm-indexer a {
+  text-decoration: none;
+  display: block;
+  height: 3.85%;
+}
+.mm-indexer ~ .mm-panel.mm-hasindexer {
+  padding-right: 40px;
+}
+.mm-hasindexer .mm-indexer {
+  right: 0;
+}
+.mm-hasindexer .mm-fixeddivider {
+  right: 20px;
+}
+.mm-menu .mm-indexer a {
+  color: rgba(0, 0, 0, 0.3);
+}
+/*
+	jQuery.mmenu toggles addon CSS
+*/
+input.mm-toggle,
+input.mm-check {
+  position: absolute;
+  left: -10000px;
+}
+label.mm-toggle,
+label.mm-check {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+}
+label.mm-toggle:before,
+label.mm-check:before {
+  content: '';
+  display: block;
+}
+label.mm-toggle {
+  border-radius: 30px;
+  width: 50px;
+  height: 30px;
+  margin-top: -15px;
+}
+label.mm-toggle:before {
+  border-radius: 30px;
+  width: 28px;
+  height: 28px;
+  margin: 1px;
+}
+input.mm-toggle:checked ~ label.mm-toggle:before {
+  float: right;
+}
+label.mm-check {
+  width: 30px;
+  height: 30px;
+  margin-top: -15px;
+}
+label.mm-check:before {
+  border-left: 3px solid;
+  border-bottom: 3px solid;
+  width: 40%;
+  height: 20%;
+  margin: 25% 0 0 20%;
+  opacity: 0.1;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+input.mm-check:checked ~ label.mm-check:before {
+  opacity: 1;
+}
+li.mm-vertical label.mm-toggle,
+li.mm-vertical label.mm-check {
+  bottom: auto;
+  margin-top: 0;
+}
+li.mm-vertical label.mm-toggle {
+  top: 5px;
+}
+li.mm-vertical label.mm-check {
+  top: 5px;
+}
+label.mm-toggle,
+label.mm-check {
+  right: 20px;
+}
+label.mm-toggle + a,
+label.mm-toggle + span {
+  padding-right: 80px;
+}
+label.mm-check + a,
+label.mm-check + span {
+  padding-right: 60px;
+}
+a.mm-next + label.mm-toggle,
+a.mm-next + label.mm-check {
+  right: 60px;
+}
+a.mm-next + label.mm-toggle + a,
+a.mm-next + label.mm-toggle + span,
+a.mm-next + label.mm-check + a,
+a.mm-next + label.mm-check + span {
+  margin-right: 50px;
+}
+a.mm-next + label.mm-toggle + a,
+a.mm-next + label.mm-toggle + span {
+  padding-right: 70px;
+}
+a.mm-next + label.mm-check + a,
+a.mm-next + label.mm-check + span {
+  padding-right: 50px;
+}
+em.mm-counter + a.mm-next + label.mm-toggle,
+em.mm-counter + a.mm-next + label.mm-check {
+  right: 100px;
+}
+em.mm-counter + a.mm-next + label.mm-toggle + a,
+em.mm-counter + a.mm-next + label.mm-toggle + span,
+em.mm-counter + a.mm-next + label.mm-check + a,
+em.mm-counter + a.mm-next + label.mm-check + span {
+  margin-right: 90px;
+}
+.mm-menu label.mm-toggle {
+  background: rgba(0, 0, 0, 0.1);
+}
+.mm-menu label.mm-toggle:before {
+  background: #f3f3f3;
+}
+.mm-menu input.mm-toggle:checked ~ label.mm-toggle {
+  background: #4bd963;
+}
+.mm-menu label.mm-check:before {
+  border-color: rgba(0, 0, 0, 0.7);
+}
+/*
+	jQuery.mmenu borderstyle extension CSS
+*/
+.mm-menu.mm-border-none .mm-listview > li:after,
+.mm-listview.mm-border-none > li:after {
+  content: none;
+}
+.mm-menu.mm-border-full .mm-listview > li:after,
+.mm-listview.mm-border-full > li:after {
+  left: 0 !important;
+}
+/*
+	jQuery.mmenu effects extension CSS
+*/
+html.mm-effect-zoom-menu .mm-menu.mm-offcanvas {
+  -webkit-transition: -webkit-transform 0.4s ease;
+  -moz-transition: -moz-transform 0.4s ease;
+  -ms-transition: -ms-transform 0.4s ease;
+  -o-transition: -o-transform 0.4s ease;
+  transition: transform 0.4s ease;
+}
+html.mm-effect-zoom-menu.mm-opened .mm-menu.mm-effect-zoom-menu {
+  -webkit-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  -moz-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  -ms-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  -o-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -ms-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+html.mm-effect-zoom-menu.mm-opening .mm-menu.mm-effect-zoom-menu {
+  -webkit-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -moz-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -ms-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -o-transform: scale(1, 1) translate3d(0%, 0, 0);
+  transform: scale(1, 1) translate3d(0%, 0, 0);
+}
+html.mm-effect-zoom-menu.mm-right.mm-opened .mm-menu.mm-offcanvas {
+  -webkit-transform: scale(0.7, 0.7) translate3d(30%, 0, 0);
+  -moz-transform: scale(0.7, 0.7) translate3d(30%, 0, 0);
+  -ms-transform: scale(0.7, 0.7) translate3d(30%, 0, 0);
+  -o-transform: scale(0.7, 0.7) translate3d(30%, 0, 0);
+  transform: scale(0.7, 0.7) translate3d(30%, 0, 0);
+  -webkit-transform-origin: right center;
+  -moz-transform-origin: right center;
+  -ms-transform-origin: right center;
+  -o-transform-origin: right center;
+  transform-origin: right center;
+}
+html.mm-effect-zoom-menu.mm-right.mm-opening .mm-menu.mm-effect-zoom-menu {
+  -webkit-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -moz-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -ms-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -o-transform: scale(1, 1) translate3d(0%, 0, 0);
+  transform: scale(1, 1) translate3d(0%, 0, 0);
+}
+html.mm-effect-slide-menu .mm-menu.mm-effect-slide-menu {
+  -webkit-transition: -webkit-transform 0.4s ease;
+  -moz-transition: -moz-transform 0.4s ease;
+  -ms-transition: -ms-transform 0.4s ease;
+  -o-transition: -o-transform 0.4s ease;
+  transition: transform 0.4s ease;
+}
+html.mm-effect-slide-menu.mm-opened .mm-menu.mm-effect-slide-menu {
+  -webkit-transform: translate3d(-30%, 0, 0);
+  -moz-transform: translate3d(-30%, 0, 0);
+  -ms-transform: translate3d(-30%, 0, 0);
+  -o-transform: translate3d(-30%, 0, 0);
+  transform: translate3d(-30%, 0, 0);
+}
+html.mm-effect-slide-menu.mm-opening .mm-menu.mm-effect-slide-menu {
+  -webkit-transform: translate3d(0%, 0, 0);
+  -moz-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+html.mm-effect-slide-menu.mm-right.mm-opened .mm-menu.mm-effect-slide-menu {
+  -webkit-transform: translate3d(30%, 0, 0);
+  -moz-transform: translate3d(30%, 0, 0);
+  -ms-transform: translate3d(30%, 0, 0);
+  -o-transform: translate3d(30%, 0, 0);
+  transform: translate3d(30%, 0, 0);
+}
+html.mm-effect-slide-menu.mm-right.mm-opening .mm-menu.mm-effect-slide-menu {
+  -webkit-transform: translate3d(0%, 0, 0);
+  -moz-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+html.mm-effect-fade-menu .mm-menu.mm-effect-fade-menu {
+  opacity: 0;
+  -webkit-transition: opacity 0.4s ease;
+  -moz-transition: opacity 0.4s ease;
+  -ms-transition: opacity 0.4s ease;
+  -o-transition: opacity 0.4s ease;
+  transition: opacity 0.4s ease;
+}
+html.mm-effect-fade-menu.mm-opening .mm-menu.mm-effect-fade-menu {
+  opacity: 1;
+}
+.mm-menu.mm-effect-zoom-panels .mm-panel {
+  -webkit-transform: scale(1.5, 1.5) translate3d(100%, 0, 0);
+  -moz-transform: scale(1.5, 1.5) translate3d(100%, 0, 0);
+  -ms-transform: scale(1.5, 1.5) translate3d(100%, 0, 0);
+  -o-transform: scale(1.5, 1.5) translate3d(100%, 0, 0);
+  transform: scale(1.5, 1.5) translate3d(100%, 0, 0);
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -ms-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+.mm-menu.mm-effect-zoom-panels .mm-panel.mm-opened {
+  -webkit-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -moz-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -ms-transform: scale(1, 1) translate3d(0%, 0, 0);
+  -o-transform: scale(1, 1) translate3d(0%, 0, 0);
+  transform: scale(1, 1) translate3d(0%, 0, 0);
+}
+.mm-menu.mm-effect-zoom-panels .mm-panel.mm-opened.mm-subopened {
+  -webkit-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  -moz-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  -ms-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  -o-transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+  transform: scale(0.7, 0.7) translate3d(-30%, 0, 0);
+}
+.mm-menu.mm-effect-slide-panels-0 .mm-panel.mm-subopened {
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.mm-menu.mm-effect-slide-panels-100 .mm-panel.mm-subopened {
+  -webkit-transform: translate3d(-100%, 0, 0);
+  -moz-transform: translate3d(-100%, 0, 0);
+  -ms-transform: translate3d(-100%, 0, 0);
+  -o-transform: translate3d(-100%, 0, 0);
+  transform: translate3d(-100%, 0, 0);
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li {
+  -webkit-transition: -webkit-transform 0.4s ease;
+  -moz-transition: -moz-transform 0.4s ease;
+  -ms-transition: -ms-transform 0.4s ease;
+  -o-transition: -o-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  -webkit-transform: translate3d(100%, 0, 0);
+  -moz-transform: translate3d(100%, 0, 0);
+  -ms-transform: translate3d(100%, 0, 0);
+  -o-transform: translate3d(100%, 0, 0);
+  transform: translate3d(100%, 0, 0);
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(1) {
+  -webkit-transition-delay: 100ms;
+  -moz-transition-delay: 100ms;
+  -ms-transition-delay: 100ms;
+  -o-transition-delay: 100ms;
+  transition-delay: 100ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(2) {
+  -webkit-transition-delay: 200ms;
+  -moz-transition-delay: 200ms;
+  -ms-transition-delay: 200ms;
+  -o-transition-delay: 200ms;
+  transition-delay: 200ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(3) {
+  -webkit-transition-delay: 300ms;
+  -moz-transition-delay: 300ms;
+  -ms-transition-delay: 300ms;
+  -o-transition-delay: 300ms;
+  transition-delay: 300ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(4) {
+  -webkit-transition-delay: 400ms;
+  -moz-transition-delay: 400ms;
+  -ms-transition-delay: 400ms;
+  -o-transition-delay: 400ms;
+  transition-delay: 400ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(5) {
+  -webkit-transition-delay: 500ms;
+  -moz-transition-delay: 500ms;
+  -ms-transition-delay: 500ms;
+  -o-transition-delay: 500ms;
+  transition-delay: 500ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(6) {
+  -webkit-transition-delay: 600ms;
+  -moz-transition-delay: 600ms;
+  -ms-transition-delay: 600ms;
+  -o-transition-delay: 600ms;
+  transition-delay: 600ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(7) {
+  -webkit-transition-delay: 700ms;
+  -moz-transition-delay: 700ms;
+  -ms-transition-delay: 700ms;
+  -o-transition-delay: 700ms;
+  transition-delay: 700ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(8) {
+  -webkit-transition-delay: 800ms;
+  -moz-transition-delay: 800ms;
+  -ms-transition-delay: 800ms;
+  -o-transition-delay: 800ms;
+  transition-delay: 800ms;
+}
+html.mm-effect-slide-listitems .mm-menu.mm-effect-slide-listitems .mm-listview > li:nth-child(9) {
+  -webkit-transition-delay: 900ms;
+  -moz-transition-delay: 900ms;
+  -ms-transition-delay: 900ms;
+  -o-transition-delay: 900ms;
+  transition-delay: 900ms;
+}
+html.mm-effect-slide-listitems.mm-opening .mm-menu.mm-effect-slide-listitems .mm-panel.mm-opened .mm-listview > li {
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+/*
+	jQuery.mmenu fullscreen extension CSS
+*/
+.mm-menu.mm-fullscreen {
+  width: 100%;
+  min-width: 140px;
+  max-width: 10000px;
+}
+html.mm-opening.mm-fullscreen .mm-slideout {
+  -webkit-transform: translate(100%, 0);
+  -moz-transform: translate(100%, 0);
+  -ms-transform: translate(100%, 0);
+  -o-transform: translate(100%, 0);
+  transform: translate(100%, 0);
+}
+@media all and (max-width: 140px) {
+  html.mm-opening.mm-fullscreen .mm-slideout {
+    -webkit-transform: translate(140px, 0);
+    -moz-transform: translate(140px, 0);
+    -ms-transform: translate(140px, 0);
+    -o-transform: translate(140px, 0);
+    transform: translate(140px, 0);
+  }
+}
+@media all and (min-width: 10000px) {
+  html.mm-opening.mm-fullscreen .mm-slideout {
+    -webkit-transform: translate(10000px, 0);
+    -moz-transform: translate(10000px, 0);
+    -ms-transform: translate(10000px, 0);
+    -o-transform: translate(10000px, 0);
+    transform: translate(10000px, 0);
+  }
+}
+html.mm-right.mm-opening.mm-fullscreen .mm-slideout {
+  -webkit-transform: translate(-100%, 0);
+  -moz-transform: translate(-100%, 0);
+  -ms-transform: translate(-100%, 0);
+  -o-transform: translate(-100%, 0);
+  transform: translate(-100%, 0);
+}
+@media all and (max-width: 140px) {
+  html.mm-right.mm-opening.mm-fullscreen .mm-slideout {
+    -webkit-transform: translate(-140px, 0);
+    -moz-transform: translate(-140px, 0);
+    -ms-transform: translate(-140px, 0);
+    -o-transform: translate(-140px, 0);
+    transform: translate(-140px, 0);
+  }
+}
+@media all and (min-width: 10000px) {
+  html.mm-right.mm-opening.mm-fullscreen .mm-slideout {
+    -webkit-transform: translate(-10000px, 0);
+    -moz-transform: translate(-10000px, 0);
+    -ms-transform: translate(-10000px, 0);
+    -o-transform: translate(-10000px, 0);
+    transform: translate(-10000px, 0);
+  }
+}
+.mm-menu.mm-fullscreen.mm-top,
+.mm-menu.mm-fullscreen.mm-bottom {
+  height: 100%;
+  min-height: 140px;
+  max-height: 10000px;
+}
+html.mm-opened.mm-fullscreen .mm-page {
+  box-shadow: none !important;
+}
+/*
+	jQuery.mmenu multiline extension CSS
+*/
+.mm-menu.mm-multiline .mm-listview > li > a,
+.mm-menu.mm-multiline .mm-listview > li > span,
+.mm-listview.mm-multiline > li .mm-listview > li.mm-multiline > a,
+.mm-listview.mm-multiline > li .mm-listview > li.mm-multiline > span {
+  text-overflow: clip;
+  white-space: normal;
+}
+/*
+	jQuery.mmenu pageshadow extension CSS
+*/
+.mm-menu.mm-pageshadow:after {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 120%;
+  position: absolute;
+  left: 100%;
+  top: -10%;
+  z-index: 99;
+}
+.mm-menu.mm-pageshadow.mm-right:after {
+  left: auto;
+  right: 100%;
+}
+.mm-menu.mm-pageshadow.mm-next:after,
+.mm-menu.mm-pageshadow.mm-front:after {
+  content: none;
+  display: none;
+}
+.mm-menu.mm-pageshadow:after {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+/*
+	jQuery.mmenu position extension CSS
+*/
+.mm-menu.mm-top,
+.mm-menu.mm-bottom {
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+}
+.mm-menu.mm-right {
+  left: auto;
+  right: 0;
+}
+.mm-menu.mm-bottom {
+  top: auto;
+  bottom: 0;
+}
+html.mm-right.mm-opening .mm-slideout {
+  -webkit-transform: translate(-80%, 0);
+  -moz-transform: translate(-80%, 0);
+  -ms-transform: translate(-80%, 0);
+  -o-transform: translate(-80%, 0);
+  transform: translate(-80%, 0);
+}
+@media all and (max-width: 175px) {
+  html.mm-right.mm-opening .mm-slideout {
+    -webkit-transform: translate(-140px, 0);
+    -moz-transform: translate(-140px, 0);
+    -ms-transform: translate(-140px, 0);
+    -o-transform: translate(-140px, 0);
+    transform: translate(-140px, 0);
+  }
+}
+@media all and (min-width: 550px) {
+  html.mm-right.mm-opening .mm-slideout {
+    -webkit-transform: translate(-440px, 0);
+    -moz-transform: translate(-440px, 0);
+    -ms-transform: translate(-440px, 0);
+    -o-transform: translate(-440px, 0);
+    transform: translate(-440px, 0);
+  }
+}
+/*
+	jQuery.mmenu z-position extension CSS
+*/
+html.mm-front .mm-slideout {
+  -webkit-transform: none !important;
+  -moz-transform: none !important;
+  -ms-transform: none !important;
+  -o-transform: none !important;
+  transform: none !important;
+  z-index: 0 !important;
+}
+.mm-menu.mm-front {
+  z-index: 1;
+}
+.mm-menu.mm-front,
+.mm-menu.mm-next {
+  -webkit-transition: -webkit-transform 0.4s ease;
+  -ms-transition: -ms-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  -webkit-transform: translate3d(-100%, 0, 0);
+  -moz-transform: translate3d(-100%, 0, 0);
+  -ms-transform: translate3d(-100%, 0, 0);
+  -o-transform: translate3d(-100%, 0, 0);
+  transform: translate3d(-100%, 0, 0);
+}
+.mm-menu.mm-front.mm-right,
+.mm-menu.mm-next.mm-right {
+  -webkit-transform: translate3d(100%, 0, 0);
+  -moz-transform: translate3d(100%, 0, 0);
+  -ms-transform: translate3d(100%, 0, 0);
+  -o-transform: translate3d(100%, 0, 0);
+  transform: translate3d(100%, 0, 0);
+}
+.mm-menu.mm-top {
+  -webkit-transform: translate3d(0, -100%, 0);
+  -moz-transform: translate3d(0, -100%, 0);
+  -ms-transform: translate3d(0, -100%, 0);
+  -o-transform: translate3d(0, -100%, 0);
+  transform: translate3d(0, -100%, 0);
+}
+.mm-menu.mm-bottom {
+  -webkit-transform: translate3d(0, 100%, 0);
+  -moz-transform: translate3d(0, 100%, 0);
+  -ms-transform: translate3d(0, 100%, 0);
+  -o-transform: translate3d(0, 100%, 0);
+  transform: translate3d(0, 100%, 0);
+}
+html.mm-opening .mm-menu.mm-front,
+html.mm-opening .mm-menu.mm-next {
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.mm-menu.mm-top,
+.mm-menu.mm-bottom {
+  height: 80%;
+  min-height: 140px;
+  max-height: 880px;
+}
+/*
+	jQuery.mmenu themes extension CSS
+*/
+.mm-menu.mm-theme-dark {
+  background: #333333;
+  border-color: rgba(0, 0, 0, 0.15);
+  color: rgba(255, 255, 255, 0.8);
+}
+.mm-menu.mm-theme-dark .mm-navbar > *,
+.mm-menu.mm-theme-dark .mm-navbar a {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-dark .mm-navbar .mm-btn:before,
+.mm-menu.mm-theme-dark .mm-navbar .mm-btn:after {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-dark .mm-listview {
+  border-color: rgba(0, 0, 0, 0.15);
+}
+.mm-menu.mm-theme-dark .mm-listview > li .mm-next:after,
+.mm-menu.mm-theme-dark .mm-listview > li .mm-arrow:after {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-dark .mm-listview > li.mm-selected > a:not(.mm-next),
+.mm-menu.mm-theme-dark .mm-listview > li.mm-selected > span {
+  background: rgba(0, 0, 0, 0.1);
+}
+.mm-menu.mm-theme-dark.mm-vertical .mm-listview > li.mm-opened > a.mm-next,
+.mm-menu.mm-theme-dark.mm-vertical .mm-listview > li.mm-opened > .mm-panel,
+.mm-menu.mm-theme-dark .mm-listview > li.mm-opened.mm-vertical > a.mm-next,
+.mm-menu.mm-theme-dark .mm-listview > li.mm-opened.mm-vertical > .mm-panel {
+  background: rgba(255, 255, 255, 0.05);
+}
+.mm-menu.mm-theme-dark .mm-divider {
+  background: rgba(255, 255, 255, 0.05);
+}
+.mm-menu.mm-theme-dark label.mm-check:before {
+  border-color: rgba(255, 255, 255, 0.8);
+}
+.mm-menu.mm-theme-dark em.mm-counter {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-dark .mm-fixeddivider span {
+  background: rgba(255, 255, 255, 0.05);
+}
+.mm-menu.mm-pageshadow.mm-theme-dark:after {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.mm-menu.mm-theme-dark .mm-search input {
+  background: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.8);
+}
+.mm-menu.mm-theme-dark .mm-noresultsmsg {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-dark .mm-indexer a {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-dark label.mm-toggle {
+  background: rgba(0, 0, 0, 0.15);
+}
+.mm-menu.mm-theme-dark label.mm-toggle:before {
+  background: #333333;
+}
+.mm-menu.mm-theme-dark input.mm-toggle:checked ~ label.mm-toggle {
+  background: #4bd963;
+}
+.mm-menu.mm-theme-white {
+  background: white;
+  border-color: rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.6);
+}
+.mm-menu.mm-theme-white .mm-navbar > *,
+.mm-menu.mm-theme-white .mm-navbar a {
+  color: rgba(0, 0, 0, 0.3);
+}
+.mm-menu.mm-theme-white .mm-navbar .mm-btn:before,
+.mm-menu.mm-theme-white .mm-navbar .mm-btn:after {
+  border-color: rgba(0, 0, 0, 0.3);
+}
+.mm-menu.mm-theme-white .mm-listview {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.mm-menu.mm-theme-white .mm-listview > li .mm-next:after,
+.mm-menu.mm-theme-white .mm-listview > li .mm-arrow:after {
+  border-color: rgba(0, 0, 0, 0.3);
+}
+.mm-menu.mm-theme-white .mm-listview > li.mm-selected > a:not(.mm-next),
+.mm-menu.mm-theme-white .mm-listview > li.mm-selected > span {
+  background: rgba(0, 0, 0, 0.05);
+}
+.mm-menu.mm-theme-white.mm-vertical .mm-listview > li.mm-opened > a.mm-next,
+.mm-menu.mm-theme-white.mm-vertical .mm-listview > li.mm-opened > .mm-panel,
+.mm-menu.mm-theme-white .mm-listview > li.mm-opened.mm-vertical > a.mm-next,
+.mm-menu.mm-theme-white .mm-listview > li.mm-opened.mm-vertical > .mm-panel {
+  background: rgba(0, 0, 0, 0.03);
+}
+.mm-menu.mm-theme-white .mm-divider {
+  background: rgba(0, 0, 0, 0.03);
+}
+.mm-menu.mm-theme-white label.mm-check:before {
+  border-color: rgba(0, 0, 0, 0.6);
+}
+.mm-menu.mm-theme-white em.mm-counter {
+  color: rgba(0, 0, 0, 0.3);
+}
+.mm-menu.mm-theme-white .mm-fixeddivider span {
+  background: rgba(0, 0, 0, 0.03);
+}
+.mm-menu.mm-pageshadow.mm-theme-white:after {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.mm-menu.mm-theme-white .mm-search input {
+  background: rgba(0, 0, 0, 0.05);
+  color: rgba(0, 0, 0, 0.6);
+}
+.mm-menu.mm-theme-white .mm-noresultsmsg {
+  color: rgba(0, 0, 0, 0.3);
+}
+.mm-menu.mm-theme-white .mm-indexer a {
+  color: rgba(0, 0, 0, 0.3);
+}
+.mm-menu.mm-theme-white label.mm-toggle {
+  background: rgba(0, 0, 0, 0.1);
+}
+.mm-menu.mm-theme-white label.mm-toggle:before {
+  background: white;
+}
+.mm-menu.mm-theme-white input.mm-toggle:checked ~ label.mm-toggle {
+  background: #4bd963;
+}
+.mm-menu.mm-theme-black {
+  background: black;
+  border-color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.6);
+}
+.mm-menu.mm-theme-black .mm-navbar > *,
+.mm-menu.mm-theme-black .mm-navbar a {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-black .mm-navbar .mm-btn:before,
+.mm-menu.mm-theme-black .mm-navbar .mm-btn:after {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-black .mm-listview {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.mm-menu.mm-theme-black .mm-listview > li .mm-next:after,
+.mm-menu.mm-theme-black .mm-listview > li .mm-arrow:after {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-black .mm-listview > li.mm-selected > a:not(.mm-next),
+.mm-menu.mm-theme-black .mm-listview > li.mm-selected > span {
+  background: rgba(255, 255, 255, 0.3);
+}
+.mm-menu.mm-theme-black.mm-vertical .mm-listview > li.mm-opened > a.mm-next,
+.mm-menu.mm-theme-black.mm-vertical .mm-listview > li.mm-opened > .mm-panel,
+.mm-menu.mm-theme-black .mm-listview > li.mm-opened.mm-vertical > a.mm-next,
+.mm-menu.mm-theme-black .mm-listview > li.mm-opened.mm-vertical > .mm-panel {
+  background: rgba(255, 255, 255, 0.2);
+}
+.mm-menu.mm-theme-black .mm-divider {
+  background: rgba(255, 255, 255, 0.2);
+}
+.mm-menu.mm-theme-black label.mm-check:before {
+  border-color: rgba(255, 255, 255, 0.6);
+}
+.mm-menu.mm-theme-black em.mm-counter {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-black .mm-fixeddivider span {
+  background: rgba(255, 255, 255, 0.2);
+}
+.mm-menu.mm-pageshadow.mm-theme-black:after {
+  content: none;
+  display: none;
+}
+.mm-menu.mm-theme-black .mm-search input {
+  background: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.6);
+}
+.mm-menu.mm-theme-black .mm-noresultsmsg {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-black .mm-indexer a {
+  color: rgba(255, 255, 255, 0.4);
+}
+.mm-menu.mm-theme-black label.mm-toggle {
+  background: rgba(255, 255, 255, 0.2);
+}
+.mm-menu.mm-theme-black label.mm-toggle:before {
+  background: black;
+}
+.mm-menu.mm-theme-black input.mm-toggle:checked ~ label.mm-toggle {
+  background: #4bd963;
+}
+/*
+	jQuery.mmenu tileview extension CSS
+*/
+.mm-menu.mm-tileview .mm-listview:after,
+.mm-menu .mm-tileview.mm-listview:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.mm-menu.mm-tileview .mm-listview > li,
+.mm-menu .mm-tileview.mm-listview > li {
+  width: 50%;
+  height: 0;
+  padding: 50% 0 0 0;
+  float: left;
+  position: relative;
+}
+.mm-menu.mm-tileview .mm-listview > li:after,
+.mm-menu .mm-tileview.mm-listview > li:after {
+  left: 0;
+  top: 0;
+  border-right-width: 1px;
+  border-right-style: solid;
+  z-index: -1;
+}
+.mm-menu.mm-tileview .mm-listview > li.mm-tile-xs,
+.mm-menu .mm-tileview.mm-listview > li.mm-tile-xs {
+  width: 12.5%;
+  padding-top: 12.5%;
+}
+.mm-menu.mm-tileview .mm-listview > li.mm-tile-s,
+.mm-menu .mm-tileview.mm-listview > li.mm-tile-s {
+  width: 25%;
+  padding-top: 25%;
+}
+.mm-menu.mm-tileview .mm-listview > li.mm-tile-l,
+.mm-menu .mm-tileview.mm-listview > li.mm-tile-l {
+  width: 75%;
+  padding-top: 75%;
+}
+.mm-menu.mm-tileview .mm-listview > li.mm-tile-xl,
+.mm-menu .mm-tileview.mm-listview > li.mm-tile-xl {
+  width: 100%;
+  padding-top: 100%;
+}
+.mm-menu.mm-tileview .mm-listview > li > a,
+.mm-menu.mm-tileview .mm-listview > li > span,
+.mm-menu .mm-tileview.mm-listview > li > a,
+.mm-menu .mm-tileview.mm-listview > li > span {
+  line-height: 1px;
+  text-align: center;
+  padding: 50% 10px 0 10px;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  right: 1px;
+  bottom: 1px;
+  left: 0;
+}
+.mm-menu.mm-tileview .mm-listview > li > .mm-next,
+.mm-menu .mm-tileview.mm-listview > li > .mm-next {
+  width: auto;
+}
+.mm-menu.mm-tileview .mm-listview > li > .mm-next:before,
+.mm-menu.mm-tileview .mm-listview > li > .mm-next:after,
+.mm-menu .mm-tileview.mm-listview > li > .mm-next:before,
+.mm-menu .mm-tileview.mm-listview > li > .mm-next:after {
+  content: none;
+  display: none;
+}
+.mm-menu.mm-tileview .mm-panel {
+  padding-left: 0;
+  padding-right: 0;
+}
+.mm-menu.mm-tileview .mm-panel:after {
+  content: none;
+  display: none;
+}
+.mm-menu.mm-tileview .mm-listview {
+  margin: 0;
+}
+/* by : coey34din@gmail.com
+/* -------------------------------------------------------- */
+h1,
+h2,
+h3,
+h4 {
+  margin: 5px 10px;
+  font-weight: bold;
+}
+h1 {
+  font-size: 24px;
+}
+h2 {
+  font-size: 18px;
+}
+h3 {
+  font-size: 16px;
+}
+h4 {
+  font-size: 15px;
+}
+a {
+  color: #000;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: none !important;
+}
+.modal-body {
+  display: table;
+  width: 100%;
+}
+.bg-aqua,
+.callout.callout-info,
+.alert-info,
+.label-info,
+.modal-info .modal-body {
+  background-color: #00c0ef !important;
+}
+.bg-green,
+.callout.callout-success,
+.alert-success,
+.label-success,
+.modal-success .modal-body {
+  background-color: #00a65a !important;
+}
+.bg-yellow,
+.callout.callout-warning,
+.alert-warning,
+.label-warning,
+.modal-warning .modal-body {
+  background-color: #f39c12 !important;
+}
+.bg-red,
+.callout.callout-danger,
+.alert-danger,
+.alert-error,
+.label-danger,
+.modal-danger .modal-body {
+  background-color: #dd4b39 !important;
+}
+.btn {
+  margin-right: 15px;
+  font-size: 14px;
+}
+.btn-app {
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  color: #000;
+  font-size: 14px;
+  margin: 0 0 0px 10px;
+  min-width: 80px;
+  padding: 15px 5px;
+  position: relative;
+  text-align: center;
+  float: right;
+}
+.btn-app:hover {
+  background: #ffffff;
+  color: #ff851b;
+  border: 1px solid #ff851b;
+}
+.btn-primary {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#356aa0+0,356aa0+100;Blue+Flat */
+  background: #356aa0;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #356aa0 0%, #356aa0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#356aa0', endColorstr='#356aa0', GradientType=0);
+  /* IE6-9 */
+}
+.btn-primary:hover {
+  background: #ff851b;
+  border-color: #ff851b;
+}
+.btn-info {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#356aa0+0,356aa0+100;Blue+Flat */
+  background: #356aa0;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #356aa0 0%, #356aa0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#356aa0', endColorstr='#356aa0', GradientType=0);
+  /* IE6-9 */
+  border-color: #ccc;
+}
+.btn-info:hover {
+  border-color: #ccc;
+}
+.btn-default {
+  color: #000;
+}
+.btn-app > .fa,
+.btn-app > .glyphicon,
+.btn-app > .ion {
+  display: block;
+  font-size: 30px;
+  font-weight: bold;
+}
+.modal-dialog {
+  width: 80%;
+}
+.f-left {
+  display: table;
+  float: left;
+  margin-right: 15px;
+}
+.ion-bag::before {
+  content: "?";
+}
+.ion,
+.ionicons,
+.ion-alert::before,
+.ion-alert-circled::before,
+.ion-android-add::before,
+.ion-android-add-circle::before,
+.ion-android-alarm-clock::before,
+.ion-android-alert::before,
+.ion-android-apps::before,
+.ion-android-archive::before,
+.ion-android-arrow-back::before,
+.ion-android-arrow-down::before,
+.ion-android-arrow-dropdown::before,
+.ion-android-arrow-dropdown-circle::before,
+.ion-android-arrow-dropleft::before,
+.ion-android-arrow-dropleft-circle::before,
+.ion-android-arrow-dropright::before,
+.ion-android-arrow-dropright-circle::before,
+.ion-android-arrow-dropup::before,
+.ion-android-arrow-dropup-circle::before,
+.ion-android-arrow-forward::before,
+.ion-android-arrow-up::before,
+.ion-android-attach::before,
+.ion-android-bar::before,
+.ion-android-bicycle::before,
+.ion-android-boat::before,
+.ion-android-bookmark::before,
+.ion-android-bulb::before,
+.ion-android-bus::before,
+.ion-android-calendar::before,
+.ion-android-call::before,
+.ion-android-camera::before,
+.ion-android-cancel::before,
+.ion-android-car::before,
+.ion-android-cart::before,
+.ion-android-chat::before,
+.ion-android-checkbox::before,
+.ion-android-checkbox-blank::before,
+.ion-android-checkbox-outline::before,
+.ion-android-checkbox-outline-blank::before,
+.ion-android-checkmark-circle::before,
+.ion-android-clipboard::before,
+.ion-android-close::before,
+.ion-android-cloud::before,
+.ion-android-cloud-circle::before,
+.ion-android-cloud-done::before,
+.ion-android-cloud-outline::before,
+.ion-android-color-palette::before,
+.ion-android-compass::before,
+.ion-android-contact::before,
+.ion-android-contacts::before,
+.ion-android-contract::before,
+.ion-android-create::before,
+.ion-android-delete::before,
+.ion-android-desktop::before,
+.ion-android-document::before,
+.ion-android-done::before,
+.ion-android-done-all::before,
+.ion-android-download::before,
+.ion-android-drafts::before,
+.ion-android-exit::before,
+.ion-android-expand::before,
+.ion-android-favorite::before,
+.ion-android-favorite-outline::before,
+.ion-android-film::before,
+.ion-android-folder::before,
+.ion-android-folder-open::before,
+.ion-android-funnel::before,
+.ion-android-globe::before,
+.ion-android-hand::before,
+.ion-android-hangout::before,
+.ion-android-happy::before,
+.ion-android-home::before,
+.ion-android-image::before,
+.ion-android-laptop::before,
+.ion-android-list::before,
+.ion-android-locate::before,
+.ion-android-lock::before,
+.ion-android-mail::before,
+.ion-android-map::before,
+.ion-android-menu::before,
+.ion-android-microphone::before,
+.ion-android-microphone-off::before,
+.ion-android-more-horizontal::before,
+.ion-android-more-vertical::before,
+.ion-android-navigate::before,
+.ion-android-notifications::before,
+.ion-android-notifications-none::before,
+.ion-android-notifications-off::before,
+.ion-android-open::before,
+.ion-android-options::before,
+.ion-android-people::before,
+.ion-android-person::before,
+.ion-android-person-add::before,
+.ion-android-phone-landscape::before,
+.ion-android-phone-portrait::before,
+.ion-android-pin::before,
+.ion-android-plane::before,
+.ion-android-playstore::before,
+.ion-android-print::before,
+.ion-android-radio-button-off::before,
+.ion-android-radio-button-on::before,
+.ion-android-refresh::before,
+.ion-android-remove::before,
+.ion-android-remove-circle::before,
+.ion-android-restaurant::before,
+.ion-android-sad::before,
+.ion-android-search::before,
+.ion-android-send::before,
+.ion-android-settings::before,
+.ion-android-share::before,
+.ion-android-share-alt::before,
+.ion-android-star::before,
+.ion-android-star-half::before,
+.ion-android-star-outline::before,
+.ion-android-stopwatch::before,
+.ion-android-subway::before,
+.ion-android-sunny::before,
+.ion-android-sync::before,
+.ion-android-textsms::before,
+.ion-android-time::before,
+.ion-android-train::before,
+.ion-android-unlock::before,
+.ion-android-upload::before,
+.ion-android-volume-down::before,
+.ion-android-volume-mute::before,
+.ion-android-volume-off::before,
+.ion-android-volume-up::before,
+.ion-android-walk::before,
+.ion-android-warning::before,
+.ion-android-watch::before,
+.ion-android-wifi::before,
+.ion-aperture::before,
+.ion-archive::before,
+.ion-arrow-down-a::before,
+.ion-arrow-down-b::before,
+.ion-arrow-down-c::before,
+.ion-arrow-expand::before,
+.ion-arrow-graph-down-left::before,
+.ion-arrow-graph-down-right::before,
+.ion-arrow-graph-up-left::before,
+.ion-arrow-graph-up-right::before,
+.ion-arrow-left-a::before,
+.ion-arrow-left-b::before,
+.ion-arrow-left-c::before,
+.ion-arrow-move::before,
+.ion-arrow-resize::before,
+.ion-arrow-return-left::before,
+.ion-arrow-return-right::before,
+.ion-arrow-right-a::before,
+.ion-arrow-right-b::before,
+.ion-arrow-right-c::before,
+.ion-arrow-shrink::before,
+.ion-arrow-swap::before,
+.ion-arrow-up-a::before,
+.ion-arrow-up-b::before,
+.ion-arrow-up-c::before,
+.ion-asterisk::before,
+.ion-at::before,
+.ion-backspace::before,
+.ion-backspace-outline::before,
+.ion-bag::before,
+.ion-battery-charging::before,
+.ion-battery-empty::before,
+.ion-battery-full::before,
+.ion-battery-half::before,
+.ion-battery-low::before,
+.ion-beaker::before,
+.ion-beer::before,
+.ion-bluetooth::before,
+.ion-bonfire::before,
+.ion-bookmark::before,
+.ion-bowtie::before,
+.ion-briefcase::before,
+.ion-bug::before,
+.ion-calculator::before,
+.ion-calendar::before,
+.ion-camera::before,
+.ion-card::before,
+.ion-cash::before,
+.ion-chatbox::before,
+.ion-chatbox-working::before,
+.ion-chatboxes::before,
+.ion-chatbubble::before,
+.ion-chatbubble-working::before,
+.ion-chatbubbles::before,
+.ion-checkmark::before,
+.ion-checkmark-circled::before,
+.ion-checkmark-round::before,
+.ion-chevron-down::before,
+.ion-chevron-left::before,
+.ion-chevron-right::before,
+.ion-chevron-up::before,
+.ion-clipboard::before,
+.ion-clock::before,
+.ion-close::before,
+.ion-close-circled::before,
+.ion-close-round::before,
+.ion-closed-captioning::before,
+.ion-cloud::before,
+.ion-code::before,
+.ion-code-download::before,
+.ion-code-working::before,
+.ion-coffee::before,
+.ion-compass::before,
+.ion-compose::before,
+.ion-connection-bars::before,
+.ion-contrast::before,
+.ion-crop::before,
+.ion-cube::before,
+.ion-disc::before,
+.ion-document::before,
+.ion-document-text::before,
+.ion-drag::before,
+.ion-earth::before,
+.ion-easel::before,
+.ion-edit::before,
+.ion-egg::before,
+.ion-eject::before,
+.ion-email::before,
+.ion-email-unread::before,
+.ion-erlenmeyer-flask::before,
+.ion-erlenmeyer-flask-bubbles::before,
+.ion-eye::before,
+.ion-eye-disabled::before,
+.ion-female::before,
+.ion-filing::before,
+.ion-film-marker::before,
+.ion-fireball::before,
+.ion-flag::before,
+.ion-flame::before,
+.ion-flash::before,
+.ion-flash-off::before,
+.ion-folder::before,
+.ion-fork::before,
+.ion-fork-repo::before,
+.ion-forward::before,
+.ion-funnel::before,
+.ion-gear-a::before,
+.ion-gear-b::before,
+.ion-grid::before,
+.ion-hammer::before,
+.ion-happy::before,
+.ion-happy-outline::before,
+.ion-headphone::before,
+.ion-heart::before,
+.ion-heart-broken::before,
+.ion-help::before,
+.ion-help-buoy::before,
+.ion-help-circled::before,
+.ion-home::before,
+.ion-icecream::before,
+.ion-image::before,
+.ion-images::before,
+.ion-information::before,
+.ion-information-circled::before,
+.ion-ionic::before,
+.ion-ios-alarm::before,
+.ion-ios-alarm-outline::before,
+.ion-ios-albums::before,
+.ion-ios-albums-outline::before,
+.ion-ios-americanfootball::before,
+.ion-ios-americanfootball-outline::before,
+.ion-ios-analytics::before,
+.ion-ios-analytics-outline::before,
+.ion-ios-arrow-back::before,
+.ion-ios-arrow-down::before,
+.ion-ios-arrow-forward::before,
+.ion-ios-arrow-left::before,
+.ion-ios-arrow-right::before,
+.ion-ios-arrow-thin-down::before,
+.ion-ios-arrow-thin-left::before,
+.ion-ios-arrow-thin-right::before,
+.ion-ios-arrow-thin-up::before,
+.ion-ios-arrow-up::before,
+.ion-ios-at::before,
+.ion-ios-at-outline::before,
+.ion-ios-barcode::before,
+.ion-ios-barcode-outline::before,
+.ion-ios-baseball::before,
+.ion-ios-baseball-outline::before,
+.ion-ios-basketball::before,
+.ion-ios-basketball-outline::before,
+.ion-ios-bell::before,
+.ion-ios-bell-outline::before,
+.ion-ios-body::before,
+.ion-ios-body-outline::before,
+.ion-ios-bolt::before,
+.ion-ios-bolt-outline::before,
+.ion-ios-book::before,
+.ion-ios-book-outline::before,
+.ion-ios-bookmarks::before,
+.ion-ios-bookmarks-outline::before,
+.ion-ios-box::before,
+.ion-ios-box-outline::before,
+.ion-ios-briefcase::before,
+.ion-ios-briefcase-outline::before,
+.ion-ios-browsers::before,
+.ion-ios-browsers-outline::before,
+.ion-ios-calculator::before,
+.ion-ios-calculator-outline::before,
+.ion-ios-calendar::before,
+.ion-ios-calendar-outline::before,
+.ion-ios-camera::before,
+.ion-ios-camera-outline::before,
+.ion-ios-cart::before,
+.ion-ios-cart-outline::before,
+.ion-ios-chatboxes::before,
+.ion-ios-chatboxes-outline::before,
+.ion-ios-chatbubble::before,
+.ion-ios-chatbubble-outline::before,
+.ion-ios-checkmark::before,
+.ion-ios-checkmark-empty::before,
+.ion-ios-checkmark-outline::before,
+.ion-ios-circle-filled::before,
+.ion-ios-circle-outline::before,
+.ion-ios-clock::before,
+.ion-ios-clock-outline::before,
+.ion-ios-close::before,
+.ion-ios-close-empty::before,
+.ion-ios-close-outline::before,
+.ion-ios-cloud::before,
+.ion-ios-cloud-download::before,
+.ion-ios-cloud-download-outline::before,
+.ion-ios-cloud-outline::before,
+.ion-ios-cloud-upload::before,
+.ion-ios-cloud-upload-outline::before,
+.ion-ios-cloudy::before,
+.ion-ios-cloudy-night::before,
+.ion-ios-cloudy-night-outline::before,
+.ion-ios-cloudy-outline::before,
+.ion-ios-cog::before,
+.ion-ios-cog-outline::before,
+.ion-ios-color-filter::before,
+.ion-ios-color-filter-outline::before,
+.ion-ios-color-wand::before,
+.ion-ios-color-wand-outline::before,
+.ion-ios-compose::before,
+.ion-ios-compose-outline::before,
+.ion-ios-contact::before,
+.ion-ios-contact-outline::before,
+.ion-ios-copy::before,
+.ion-ios-copy-outline::before,
+.ion-ios-crop::before,
+.ion-ios-crop-strong::before,
+.ion-ios-download::before,
+.ion-ios-download-outline::before,
+.ion-ios-drag::before,
+.ion-ios-email::before,
+.ion-ios-email-outline::before,
+.ion-ios-eye::before,
+.ion-ios-eye-outline::before,
+.ion-ios-fastforward::before,
+.ion-ios-fastforward-outline::before,
+.ion-ios-filing::before,
+.ion-ios-filing-outline::before,
+.ion-ios-film::before,
+.ion-ios-film-outline::before,
+.ion-ios-flag::before,
+.ion-ios-flag-outline::before,
+.ion-ios-flame::before,
+.ion-ios-flame-outline::before,
+.ion-ios-flask::before,
+.ion-ios-flask-outline::before,
+.ion-ios-flower::before,
+.ion-ios-flower-outline::before,
+.ion-ios-folder::before,
+.ion-ios-folder-outline::before,
+.ion-ios-football::before,
+.ion-ios-football-outline::before,
+.ion-ios-game-controller-a::before,
+.ion-ios-game-controller-a-outline::before,
+.ion-ios-game-controller-b::before,
+.ion-ios-game-controller-b-outline::before,
+.ion-ios-gear::before,
+.ion-ios-gear-outline::before,
+.ion-ios-glasses::before,
+.ion-ios-glasses-outline::before,
+.ion-ios-grid-view::before,
+.ion-ios-grid-view-outline::before,
+.ion-ios-heart::before,
+.ion-ios-heart-outline::before,
+.ion-ios-help::before,
+.ion-ios-help-empty::before,
+.ion-ios-help-outline::before,
+.ion-ios-home::before,
+.ion-ios-home-outline::before,
+.ion-ios-infinite::before,
+.ion-ios-infinite-outline::before,
+.ion-ios-information::before,
+.ion-ios-information-empty::before,
+.ion-ios-information-outline::before,
+.ion-ios-ionic-outline::before,
+.ion-ios-keypad::before,
+.ion-ios-keypad-outline::before,
+.ion-ios-lightbulb::before,
+.ion-ios-lightbulb-outline::before,
+.ion-ios-list::before,
+.ion-ios-list-outline::before,
+.ion-ios-location::before,
+.ion-ios-location-outline::before,
+.ion-ios-locked::before,
+.ion-ios-locked-outline::before,
+.ion-ios-loop::before,
+.ion-ios-loop-strong::before,
+.ion-ios-medical::before,
+.ion-ios-medical-outline::before,
+.ion-ios-medkit::before,
+.ion-ios-medkit-outline::before,
+.ion-ios-mic::before,
+.ion-ios-mic-off::before,
+.ion-ios-mic-outline::before,
+.ion-ios-minus::before,
+.ion-ios-minus-empty::before,
+.ion-ios-minus-outline::before,
+.ion-ios-monitor::before,
+.ion-ios-monitor-outline::before,
+.ion-ios-moon::before,
+.ion-ios-moon-outline::before,
+.ion-ios-more::before,
+.ion-ios-more-outline::before,
+.ion-ios-musical-note::before,
+.ion-ios-musical-notes::before,
+.ion-ios-navigate::before,
+.ion-ios-navigate-outline::before,
+.ion-ios-nutrition::before,
+.ion-ios-nutrition-outline::before,
+.ion-ios-paper::before,
+.ion-ios-paper-outline::before,
+.ion-ios-paperplane::before,
+.ion-ios-paperplane-outline::before,
+.ion-ios-partlysunny::before,
+.ion-ios-partlysunny-outline::before,
+.ion-ios-pause::before,
+.ion-ios-pause-outline::before,
+.ion-ios-paw::before,
+.ion-ios-paw-outline::before,
+.ion-ios-people::before,
+.ion-ios-people-outline::before,
+.ion-ios-person::before,
+.ion-ios-person-outline::before,
+.ion-ios-personadd::before,
+.ion-ios-personadd-outline::before,
+.ion-ios-photos::before,
+.ion-ios-photos-outline::before,
+.ion-ios-pie::before,
+.ion-ios-pie-outline::before,
+.ion-ios-pint::before,
+.ion-ios-pint-outline::before,
+.ion-ios-play::before,
+.ion-ios-play-outline::before,
+.ion-ios-plus::before,
+.ion-ios-plus-empty::before,
+.ion-ios-plus-outline::before,
+.ion-ios-pricetag::before,
+.ion-ios-pricetag-outline::before,
+.ion-ios-pricetags::before,
+.ion-ios-pricetags-outline::before,
+.ion-ios-printer::before,
+.ion-ios-printer-outline::before,
+.ion-ios-pulse::before,
+.ion-ios-pulse-strong::before,
+.ion-ios-rainy::before,
+.ion-ios-rainy-outline::before,
+.ion-ios-recording::before,
+.ion-ios-recording-outline::before,
+.ion-ios-redo::before,
+.ion-ios-redo-outline::before,
+.ion-ios-refresh::before,
+.ion-ios-refresh-empty::before,
+.ion-ios-refresh-outline::before,
+.ion-ios-reload::before,
+.ion-ios-reverse-camera::before,
+.ion-ios-reverse-camera-outline::before,
+.ion-ios-rewind::before,
+.ion-ios-rewind-outline::before,
+.ion-ios-rose::before,
+.ion-ios-rose-outline::before,
+.ion-ios-search::before,
+.ion-ios-search-strong::before,
+.ion-ios-settings::before,
+.ion-ios-settings-strong::before,
+.ion-ios-shuffle::before,
+.ion-ios-shuffle-strong::before,
+.ion-ios-skipbackward::before,
+.ion-ios-skipbackward-outline::before,
+.ion-ios-skipforward::before,
+.ion-ios-skipforward-outline::before,
+.ion-ios-snowy::before,
+.ion-ios-speedometer::before,
+.ion-ios-speedometer-outline::before,
+.ion-ios-star::before,
+.ion-ios-star-half::before,
+.ion-ios-star-outline::before,
+.ion-ios-stopwatch::before,
+.ion-ios-stopwatch-outline::before,
+.ion-ios-sunny::before,
+.ion-ios-sunny-outline::before,
+.ion-ios-telephone::before,
+.ion-ios-telephone-outline::before,
+.ion-ios-tennisball::before,
+.ion-ios-tennisball-outline::before,
+.ion-ios-thunderstorm::before,
+.ion-ios-thunderstorm-outline::before,
+.ion-ios-time::before,
+.ion-ios-time-outline::before,
+.ion-ios-timer::before,
+.ion-ios-timer-outline::before,
+.ion-ios-toggle::before,
+.ion-ios-toggle-outline::before,
+.ion-ios-trash::before,
+.ion-ios-trash-outline::before,
+.ion-ios-undo::before,
+.ion-ios-undo-outline::before,
+.ion-ios-unlocked::before,
+.ion-ios-unlocked-outline::before,
+.ion-ios-upload::before,
+.ion-ios-upload-outline::before,
+.ion-ios-videocam::before,
+.ion-ios-videocam-outline::before,
+.ion-ios-volume-high::before,
+.ion-ios-volume-low::before,
+.ion-ios-wineglass::before,
+.ion-ios-wineglass-outline::before,
+.ion-ios-world::before,
+.ion-ios-world-outline::before,
+.ion-ipad::before,
+.ion-iphone::before,
+.ion-ipod::before,
+.ion-jet::before,
+.ion-key::before,
+.ion-knife::before,
+.ion-laptop::before,
+.ion-leaf::before,
+.ion-levels::before,
+.ion-lightbulb::before,
+.ion-link::before,
+.ion-load-a::before,
+.ion-load-b::before,
+.ion-load-c::before,
+.ion-load-d::before,
+.ion-location::before,
+.ion-lock-combination::before,
+.ion-locked::before,
+.ion-log-in::before,
+.ion-log-out::before,
+.ion-loop::before,
+.ion-magnet::before,
+.ion-male::before,
+.ion-man::before,
+.ion-map::before,
+.ion-medkit::before,
+.ion-merge::before,
+.ion-mic-a::before,
+.ion-mic-b::before,
+.ion-mic-c::before,
+.ion-minus::before,
+.ion-minus-circled::before,
+.ion-minus-round::before,
+.ion-model-s::before,
+.ion-monitor::before,
+.ion-more::before,
+.ion-mouse::before,
+.ion-music-note::before,
+.ion-navicon::before,
+.ion-navicon-round::before,
+.ion-navigate::before,
+.ion-network::before,
+.ion-no-smoking::before,
+.ion-nuclear::before,
+.ion-outlet::before,
+.ion-paintbrush::before,
+.ion-paintbucket::before,
+.ion-paper-airplane::before,
+.ion-paperclip::before,
+.ion-pause::before,
+.ion-person::before,
+.ion-person-add::before,
+.ion-person-stalker::before,
+.ion-pie-graph::before,
+.ion-pin::before,
+.ion-pinpoint::before,
+.ion-pizza::before,
+.ion-plane::before,
+.ion-planet::before,
+.ion-play::before,
+.ion-playstation::before,
+.ion-plus::before,
+.ion-plus-circled::before,
+.ion-plus-round::before,
+.ion-podium::before,
+.ion-pound::before,
+.ion-power::before,
+.ion-pricetag::before,
+.ion-pricetags::before,
+.ion-printer::before,
+.ion-pull-request::before,
+.ion-qr-scanner::before,
+.ion-quote::before,
+.ion-radio-waves::before,
+.ion-record::before,
+.ion-refresh::before,
+.ion-reply::before,
+.ion-reply-all::before,
+.ion-ribbon-a::before,
+.ion-ribbon-b::before,
+.ion-sad::before,
+.ion-sad-outline::before,
+.ion-scissors::before,
+.ion-search::before,
+.ion-settings::before,
+.ion-share::before,
+.ion-shuffle::before,
+.ion-skip-backward::before,
+.ion-skip-forward::before,
+.ion-social-android::before,
+.ion-social-android-outline::before,
+.ion-social-angular::before,
+.ion-social-angular-outline::before,
+.ion-social-apple::before,
+.ion-social-apple-outline::before,
+.ion-social-bitcoin::before,
+.ion-social-bitcoin-outline::before,
+.ion-social-buffer::before,
+.ion-social-buffer-outline::before,
+.ion-social-chrome::before,
+.ion-social-chrome-outline::before,
+.ion-social-codepen::before,
+.ion-social-codepen-outline::before,
+.ion-social-css3::before,
+.ion-social-css3-outline::before,
+.ion-social-designernews::before,
+.ion-social-designernews-outline::before,
+.ion-social-dribbble::before,
+.ion-social-dribbble-outline::before,
+.ion-social-dropbox::before,
+.ion-social-dropbox-outline::before,
+.ion-social-euro::before,
+.ion-social-euro-outline::before,
+.ion-social-facebook::before,
+.ion-social-facebook-outline::before,
+.ion-social-foursquare::before,
+.ion-social-foursquare-outline::before,
+.ion-social-freebsd-devil::before,
+.ion-social-github::before,
+.ion-social-github-outline::before,
+.ion-social-google::before,
+.ion-social-google-outline::before,
+.ion-social-googleplus::before,
+.ion-social-googleplus-outline::before,
+.ion-social-hackernews::before,
+.ion-social-hackernews-outline::before,
+.ion-social-html5::before,
+.ion-social-html5-outline::before,
+.ion-social-instagram::before,
+.ion-social-instagram-outline::before,
+.ion-social-javascript::before,
+.ion-social-javascript-outline::before,
+.ion-social-linkedin::before,
+.ion-social-linkedin-outline::before,
+.ion-social-markdown::before,
+.ion-social-nodejs::before,
+.ion-social-octocat::before,
+.ion-social-pinterest::before,
+.ion-social-pinterest-outline::before,
+.ion-social-python::before,
+.ion-social-reddit::before,
+.ion-social-reddit-outline::before,
+.ion-social-rss::before,
+.ion-social-rss-outline::before,
+.ion-social-sass::before,
+.ion-social-skype::before,
+.ion-social-skype-outline::before,
+.ion-social-snapchat::before,
+.ion-social-snapchat-outline::before,
+.ion-social-tumblr::before,
+.ion-social-tumblr-outline::before,
+.ion-social-tux::before,
+.ion-social-twitch::before,
+.ion-social-twitch-outline::before,
+.ion-social-twitter::before,
+.ion-social-twitter-outline::before,
+.ion-social-usd::before,
+.ion-social-usd-outline::before,
+.ion-social-vimeo::before,
+.ion-social-vimeo-outline::before,
+.ion-social-whatsapp::before,
+.ion-social-whatsapp-outline::before,
+.ion-social-windows::before,
+.ion-social-windows-outline::before,
+.ion-social-wordpress::before,
+.ion-social-wordpress-outline::before,
+.ion-social-yahoo::before,
+.ion-social-yahoo-outline::before,
+.ion-social-yen::before,
+.ion-social-yen-outline::before,
+.ion-social-youtube::before,
+.ion-social-youtube-outline::before,
+.ion-soup-can::before,
+.ion-soup-can-outline::before,
+.ion-speakerphone::before,
+.ion-speedometer::before,
+.ion-spoon::before,
+.ion-star::before,
+.ion-stats-bars::before,
+.ion-steam::before,
+.ion-stop::before,
+.ion-thermometer::before,
+.ion-thumbsdown::before,
+.ion-thumbsup::before,
+.ion-toggle::before,
+.ion-toggle-filled::before,
+.ion-transgender::before,
+.ion-trash-a::before,
+.ion-trash-b::before,
+.ion-trophy::before,
+.ion-tshirt::before,
+.ion-tshirt-outline::before,
+.ion-umbrella::before,
+.ion-university::before,
+.ion-unlocked::before,
+.ion-upload::before,
+.ion-usb::before,
+.ion-videocamera::before,
+.ion-volume-high::before,
+.ion-volume-low::before,
+.ion-volume-medium::before,
+.ion-volume-mute::before,
+.ion-wand::before,
+.ion-waterdrop::before,
+.ion-wifi::before,
+.ion-wineglass::before,
+.ion-woman::before,
+.ion-wrench::before,
+.ion-xbox::before {
+  display: inline-block;
+  font-family: "Ionicons";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  text-rendering: auto;
+  text-transform: none;
+}
+.small-box {
+  border-radius: 2px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  display: block;
+  margin-bottom: 20px;
+  position: relative;
+}
+.small-box h3 {
+  font-size: 38px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  padding: 0;
+  white-space: nowrap;
+  color: #fff;
+}
+.small-box p {
+  font-size: 15px;
+  color: #fff;
+}
+.small-box .inner {
+  padding: 10px;
+}
+.small-box .icon {
+  color: rgba(0, 0, 0, 0.15);
+  font-size: 90px;
+  position: absolute;
+  right: 10px;
+  top: -10px;
+  transition: all 0.3s linear 0s;
+  z-index: 0;
+}
+.small-box .small-box-footer {
+  background: rgba(0, 0, 0, 0.1) none repeat scroll 0 0;
+  color: rgba(255, 255, 255, 0.8);
+  display: block;
+  padding: 3px 0;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  z-index: 10;
+}
+.container {
+  width: 100%;
+}
+.main-content {
+  min-height: 400px;
+  border-radius: 4px;
+  padding: 15px;
+}
+.main-content .box {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 3px;
+  border-top: 3px solid #ffc500;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  position: relative;
+  width: 100%;
+  padding: 5px 10px;
+}
+.main-content .box-header {
+  color: #444;
+  display: block;
+  padding: 10px;
+  position: relative;
+  border-bottom: 3px double #ccc;
+  margin-bottom: 15px;
+}
+.main-content .box-header .box-tools2 {
+  float: left;
+}
+.main-content .box-body {
+  border-radius: 0 0 3px 3px;
+  padding: 10px;
+}
+.main-content .box-footer {
+  background-color: #fff;
+  border-radius: 0 0 3px 3px;
+  border-top: 1px solid #f4f4f4;
+  padding: 10px;
+}
+.main-content .box-header::before,
+.main-content .box-body::before,
+.main-content .box-footer::before,
+.main-content .box-header::after,
+.main-content .box-body::after,
+.main-content .box-footer::after {
+  clear: both;
+  content: " ";
+  display: table;
+}
+.main-content .pagination {
+  border-radius: 4px;
+  display: inline-block;
+  margin: 0;
+  padding-left: 0;
+}
+.main-content .pagination > li > a,
+.main-content .pagination > li > span {
+  color: #000;
+}
+footer {
+  background: #356aa0;
+  padding: 15px 20px;
+  margin-top: 15px;
+  color: #fff;
+}
+footer a {
+  color: #FFD87A;
+}
+footer a:hover {
+  color: #ccc;
+}
+@media (max-width: 990px) {
+  .main-header #mnn {
+    display: block;
+    padding-left: 33px;
+    padding-top: 3px;
+    color: #fff;
+    margin-top: 5px;
+    text-decoration: none;
+  }
+  .main-header .navbar-collapse {
+    display: none;
+  }
+}
+.table {
+  margin: 0;
+}
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+  line-height: 2;
+  padding: 2px 8px;
+}
+.table-bordered tbody tr th {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#356aa0+0,356aa0+100;Blue+Flat */
+  background: #356aa0;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #356aa0 0%, #356aa0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#356aa0', endColorstr='#356aa0', GradientType=0);
+  /* IE6-9 */
+  color: #fff;
+  font-size: 15px;
+  text-shadow: 0px 0px 1px #000;
+}
+.table-scroll-a {
+  overflow-x: auto;
+}
+.table-scroll-b {
+  min-width: 960px;
+}
+.tb-act {
+  width: 165px;
+}
+.b-action {
+  background: #f4f4f4 none repeat scroll 0 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #000;
+  float: left;
+  font-size: 14px;
+  margin-right: 2px;
+  padding: 2px 4px;
+  text-align: center;
+}
+.b-action:hover {
+  border: 1px solid #ff851b;
+  color: #ff851b;
+  background: #fff;
+}
+.box-header > .box-tools {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
+.box-header .box-title {
+  display: inline-block;
+  font-size: 18px;
+  line-height: 1;
+  margin: 0;
+}
+.help-block {
+  color: #737373;
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  font-size: 13px;
+}
+.input-group .form-control {
+  height: 38px;
+  font-size: 14px;
+}
+#emf-container ul li.emf-li-half-width {
+  background: red!important;
+}
+.modal-dialog .modal-content .modal-header {
+  padding: 6px 15px;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#356aa0+0,356aa0+100;Blue+Flat */
+  background: #356aa0;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #356aa0 0%, #356aa0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#356aa0', endColorstr='#356aa0', GradientType=0);
+  /* IE6-9 */
+  border-radius: 5px 5px 0 0;
+}
+.modal-dialog .modal-content .modal-header .modal-title {
+  background: #ccc;
+  border-bottom: 1px solid #ddd;
+  border-radius: 8px;
+  border-top: 1px solid #0f4996;
+  display: table;
+  line-height: 1.42857;
+  margin: 0;
+  margin-left: 15px;
+  padding: 1px 20px;
+  color: #000;
+}
+.modal-dialog .modal-content .modal-header .close {
+  margin-top: -3px;
+  font-size: 30px;
+}
+.modal-dialog .modal-content .modal-footer {
+  background: #ccc;
+  border-radius: 0 0 4px 4px;
+}
+header {
+  background: url(../images/bg-head-12312c.png) repeat-x;
+}
+.main-header {
+  background: url(../images/bg-head-l.png) no-repeat top left;
+  color: #111111;
+}
+.main-header .banner {
+  background: url(../images/bg-head-r.png) no-repeat top right;
+}
+.main-header .banner .logo {
+  margin: 15px 24px 6px;
+  float: left;
+}
+.main-header .banner .text-logo {
+  float: left;
+  margin-top: 26px;
+}
+.main-header .navbar {
+  margin-bottom: 0;
+  min-height: 37px;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #ccc;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#356aa0+0,356aa0+100;Blue+Flat */
+  background: #356aa0;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #356aa0 0%, #356aa0 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #356aa0 0%, #356aa0 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#356aa0', endColorstr='#356aa0', GradientType=0);
+  /* IE6-9 */
+  text-transform: capitalize;
+  font-size: 12px;
+}
+.main-header .navbar .nav > li > a {
+  color: #fff;
+}
+.main-header .navbar .nav > li > a:hover,
+.main-header .navbar .nav > li > a:focus {
+  color: #000;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f6f8f9+0,e5ebee+50,d7dee3+51,f5f7f9+100;White+Gloss */
+  background: #f6f8f9;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f8f9', endColorstr='#f5f7f9', GradientType=0);
+  /* IE6-9 */
+}
+.main-header .navbar .nav .open > a,
+.main-header .navbar .nav .open > a:focus,
+.main-header .navbar .nav .open > a:hover {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f6f8f9+0,e5ebee+50,d7dee3+51,f5f7f9+100;White+Gloss */
+  background: #f6f8f9;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f8f9', endColorstr='#f5f7f9', GradientType=0);
+  /* IE6-9 */
+  color: #000;
+}
+.layout-top-nav .main-header .navbar {
+  margin-left: 0!important;
+}
+.main-header .navbar .navbar-nav > li > a {
+  padding: 7px 15px;
+  margin-top: 3px;
+  border-radius: 3px 3px 0 0;
+}
+.main-header .navbar .dropdown-menu {
+  background: #eee;
+  border-top: 0;
+  font-size: 12px;
+}
+.main-header .navbar .dropdown-submenu {
+  position: relative;
+}
+.main-header .navbar .dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  -webkit-border-radius: 0 6px 6px 6px;
+  -moz-border-radius: 0 6px 6px;
+  border-radius: 0 6px 6px 6px;
+}
+.main-header .navbar .dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+.main-header .navbar .dropdown-menu > li > a {
+  padding: 5px 20px;
+}
+.main-header .navbar .dropdown-submenu > a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #ccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.main-header .navbar .dropdown-submenu:hover > a:after {
+  border-left-color: #fff;
+}
+.main-header .navbar .dropdown-submenu.pull-left {
+  float: none;
+}
+.main-header .navbar .dropdown-submenu.pull-left > .dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  -webkit-border-radius: 6px 0 6px 6px;
+  -moz-border-radius: 6px 0 6px 6px;
+  border-radius: 6px 0 6px 6px;
+}
+.main-header .navbar-toggle {
+  background-color: transparent;
+  background-image: none;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  float: right;
+  margin-bottom: 8px;
+  margin-right: 15px;
+  margin-top: 8px;
+  padding: 9px 10px;
+  position: relative;
+}
+.main-header .navbar-toggle .icon-bar {
+  background: #ffffff;
+  height: 3px;
+}
+.main-header .content-header {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #fff;
+  background: #ccc;
+}
+.main-header .content-header .breadcrumb {
+  background: none;
+  margin-bottom: 0;
+  padding: 2px 5px;
+}
+.main-header .content-header .breadcrumb .active {
+  font-size: 13px;
+  color: #000;
+}
+.main-header .content-header .breadcrumb > li + li::before {
+  color: #000;
+}
+.main-header .content-header .breadcrumb ul li {
+  font-size: 13px;
+}
+.main-header .content-header .breadcrumb a {
+  font-size: 13px;
+}
+.main-header .content-header .breadcrumb a:hover {
+  color: #000;
+}

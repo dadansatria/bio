@@ -64,6 +64,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <div class="box-footer">
         <?= Html::a('<i class="fa fa-pencil"></i> Sunting Mahasiswa', ['update', 'id' => $model->id], ['class' => 'btn btn-success btn-flat']) ?>
+        <?= Html::a('<i class="fa fa-file"></i> Export PDF', ['view-export-pdf', 'id' => $model->id], ['target' => '_blank', 'class' => 'btn btn-success btn-flat']) ?>
         <?= Html::a('<i class="fa fa-list"></i> Daftar Mahasiswa', ['index'], ['class' => 'btn btn-warning btn-flat']) ?>
     </div>
 
